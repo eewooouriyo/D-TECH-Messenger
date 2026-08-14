@@ -1,4 +1,4 @@
-HELLO THERE
+###HELLO THERE/HOLA
 This is D-TECH Messenger this was made to chat with other people like the MSN Messenger that Microsoft made
 D-TECH Messenger lets you: 
 -send images and see them directly in your chat 
@@ -10,7 +10,7 @@ and i will add more things in the future like:
 -Voice messages
 -And much more
 
-HOLA 
+version español :) :
 Esto es D-TECH Messenger esto fue hecho para chatear con otras personas como MSN Messenger que Microsoft iso
 D-TECH Messenger te permite: 
 -enviar imagenes y verlas directamente en tu chat
