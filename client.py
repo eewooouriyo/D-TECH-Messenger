@@ -17,7 +17,7 @@ from PyQt6.QtWidgets import (
     QInputDialog, QSplitter, QMenu
 )
 
-SERVER_HOST = "127.0.0.1"
+SERVER_HOST = "{server IP}"
 SERVER_PORT = 5000
 MAX_FILE_SIZE = 10 * 1024 * 1024
 
