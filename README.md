@@ -1,4 +1,4 @@
-HELLO THERE/HOLA
+# D-TECH Messenger
 
 
 
@@ -26,36 +26,3 @@ and i will add more things in the future like:
 
 
 -And much more
-
-
-
-
-
-
-
-
-
-
-
-
-version español :) :
-
-
-Esto es D-TECH Messenger esto fue hecho para chatear con otras personas como MSN Messenger que Microsoft iso
-D-TECH Messenger te permite: 
-
--enviar imagenes y verlas directamente en tu chat
-
--Adjuntar archivos (beta)
-
--tener grupos 
-
-y agregare mas cosas en el futuro como:
-
--Llamadas
-
--Emojis
-
--mensajes de voz
-
--y mucho mas
