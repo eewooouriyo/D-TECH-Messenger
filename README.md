@@ -1,16 +1,16 @@
 # D-TECH Messenger
 
-D-TECH Messenger is a modern chat application inspired by classic instant messaging platforms like MSN Messenger. It is designed to make communication simple, fast, and enjoyable for users who want to chat with friends, family, or groups.
+D-TECH Messenger is a modern chat application inspired by classic instant messaging platforms like MSN Messenger. It is designed to make communication simple, fast, and fun for users who want to chat with friends, family, or groups.
 
 ## Features
 
 - Send images and view them directly in the chat
 - Attach files (beta)
+- Use emojis and reactions in conversations
 - Create and join group chats
 - Simple messaging experience built for everyday communication
-- Planned additions including:
+- Planned additions include:
   - Calls
-  - Emojis
   - Voice messages
   - More features in the future
 
@@ -20,7 +20,7 @@ D-TECH Messenger aims to combine the familiarity of classic messenger apps with 
 
 ## Project Status
 
-This project is currently under development, with more features and improvements planned over time.
+This project is actively being developed, with new features and improvements planned over time.
 
 ## Getting Started
 
@@ -41,10 +41,10 @@ The project roadmap includes:
 - Improved chat experience
 - Better file sharing support
 - Group features and management
-- Voice and video call support
-- Emoji and reaction support
+- Video and voice call support
+- More emoji and reaction features
 - Voice message functionality
-- More community and usability enhancements
+- Additional usability enhancements
 
 ## Contributing
 
@@ -56,4 +56,4 @@ This project is currently unlicensed. If you plan to distribute or commercialize
 
 ## Contact
 
-For questions, suggestions, or project updates, reach out through the repository or project maintainers.
+For questions, suggestions, or project updates, reach out through the repository or the project maintainers.
